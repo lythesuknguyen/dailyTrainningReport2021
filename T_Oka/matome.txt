@@ -1,0 +1,46 @@
+4/19 ～　4/23　技術研修まとめ
+
+・先週学んだ内容
+Git GitHub Linuxコマンド
+HTML
+CSS
+JavaScript
+
+・理解できている部分
+Git Github 基本的操作(clone pull status add commit push branch checkout etc)
+HTML 
+　HTMLでできること、CSSとJavaScirptの二つの言語の役割分別
+　HTMLの書式形態　<!DOCTYPE HTML>など、スクリプトを作成したときに最初に書き込む内容
+　HTMLで使用する関数多数　ーid class etc
+
+CSS
+ CSSとHTMLのリンク　<link href = "../css/File.css" type = "txt/css" href = "stylesheet">
+
+JavaScript
+ JavaScriptとHTMLのリンク　<script src = "../js/File.js" type = "txt/JavaScript"></script>
+ JavaScriptに収録されている関数や書き方
+　引数の定義　：　var
+  任意の関数の定義　： function MainOperate;
+　配列の定義	:　var EmptyAlley = [];
+　MainOperateSystem.NumberDirectSystem
+  　→訳：MainOperateSystemの中にあるNumberDirectSystem 
+    ※MainOperateSystemなどはthisといった表記の仕方もある
+　ほかfor分、if文など
+
+・コメント
+研修自体がかなり自己学習をする時間が多いため、自分の学び方で言語を学べるというのが先週印象に残った。
+上記の内容が思い浮かべられる学んだ内容だが、個人的に少ないように感じている。
+今の段階で理解していることは、３つの言語とはどんな感じで、どんな構文を書くかということを理解しているだけなので、
+それを自由に扱うことができるレベルまでには到底達していないことを感じている。
+先週は３つの言語を浅く広く学んだ感じを受けているので、もう少し一つの言語に対して深く教えてほしいが
+今後、基本的に３つの言語を使用しながら経験を積んでいきながら学んでいくことを考えているのかもしれないと今は考えている。
+なので先週の浅く広くやったのは仕方ないと思っています。
+
+リンさんには今後はこういった言語に関する言語の他に、どういった形をクライアントは求めいているのかなど
+ユーザビリティに関するデザインなどの話も、持っていたら話していただけると嬉しいです。
+または流行りのデザイン等、言語に限らず今のユーザーが好きだろうデザインなどの見解があればそれを踏まえて教えてほしい
+
+・研修スピード
+基本的に早いことはないが、こちらの時間が足りていないことが大いにあるのでそこだけ理解してほしいと思います。
+時間が足りていなくて、理解が追い付いていないなどといったことは起きていないですが、
+自分の理解が浅いのかもしれないと疑問に思うことはあります。
